@@ -8,7 +8,9 @@
   
 🚀 Quick Start
 
-[Playdoku_playable](https://drive.google.com/file/d/1mWy8dPrV2cZeZ8hRtPCshqHAiNCnKGOs/view?usp=sharing)
+[Playdoku_playable](https://github.com/OleksandrPoliukh/Playdoku_playable_test_task/tree/main/ReadyForUseHTMLFile) 
+
+download and open with browser
 
 🔧 Development Mode
 
