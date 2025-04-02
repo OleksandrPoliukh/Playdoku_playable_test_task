@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width,user-scalable=no,initial-scale=1.0, minimum-scale=1.0,maximum-scale=1.0"
+        />
+        <title>
+            <%= htmlWebpackPlugin.options.templateParameters.version %>
+        </title>
+
+        <style>
+            html,
+            body {
+                margin: 0;
+                padding: 0;
+                background-color: 0x111111;
+                overflow: hidden;
+            }
+        </style>
+    </head>
+    <body
+        data-page-title="<%= htmlWebpackPlugin.options.templateParameters.version %>"
+    >
+        <canvas id="scene" class="mainCanvas"></canvas>
+        <div class="app" id="game_app"></div>
+    </body>
+</html>
